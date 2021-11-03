@@ -1,0 +1,40 @@
+* {
+  margin: 0 auto;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: bisque;
+}
+
+nav {
+  list-style-type: none;
+  float: right;
+  background-color: darksalmon;
+}
+
+.navbarUL li {
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+
+body {
+  background-color: burlywood;
+}
+
+.hero {
+  height: 800px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url('https://www.ppgpaintsarena.com/assets/img/JohnMayer19_EventPageLargeFeature-f1fb5e50ff.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.article {
+  display:block;
+  box-sizing: content-box;
+  max-width: 500px;
+}
+
+h1 {
+  text-align: center;
+}
